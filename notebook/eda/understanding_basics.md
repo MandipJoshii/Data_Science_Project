@@ -56,6 +56,4 @@ This is basically a histogram but with a smooth curve layered on top. That curve
 
 ---
 
-## The One Thing to Remember
 
-The plot comes after the question, never before it. You ask something about your data first — then you pick whichever plot answers it best. That's the difference between EDA and just making charts.

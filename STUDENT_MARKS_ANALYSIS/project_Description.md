@@ -6,7 +6,7 @@ using the UCI Student Performance Dataset (395 students, Math subject).
 ## Models Used
 - Linear Regression → R²: 0.797
 - Decision Tree Regressor → R²: 0.871
-- Random Forest Regressor → R²: 0.883
+- Random Forest Regressor → R²: 0.85
 
 ## Features Used for Prediction
 G1 (first period grade), G2 (second period grade),
